@@ -4,7 +4,7 @@ while n < array.length do
   if array[n] == value_to_find
     p n
   end
-
+  n += 1
 end
 end
 
